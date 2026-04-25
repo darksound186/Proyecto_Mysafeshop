@@ -95,8 +95,8 @@ Proyecto_Mysafeshop/
 ## 👥 Equipo de Desarrollo
 
 * **Darikson Cortes** – Desarrollo / Product Owner
-* **Cristian Martinez** – Desarrollo
-* **Miguel Caceres** – Desarrollo
+* **Cristian Martinez** – Desarrollo / Scrum Master
+* **Miguel Caceres** – Desarrollo / Lead Developer
 
 ---
 
